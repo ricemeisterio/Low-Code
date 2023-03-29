@@ -10,6 +10,12 @@ sonja:
   url: https://github.com/SonjaGu 
   image_url: https://github.com/SonjaGu.png
 
+michael:
+  name: Michael Rice
+  title: Lead DevOps
+  url: https://github.com/RiceMeisterIO 
+  image_url: https://github.com/RiceMeisterIO.png
+
 april:
   name: April Dunnam
   title: Power Platform Advocacy Lead
